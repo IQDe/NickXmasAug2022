@@ -753,3 +753,18 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.20-15.00.38:457][ 11]LogD3D12RHI: Creating RT View Heap with 250000 entries
 [2022.08.20-15.00.38:474][ 11]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
 [2022.08.20-15.02.32:236][ 37]LogDerivedDataCache: C:/Users/clock/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.309 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.20-15.25.46:550][266]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=DELL U2515H (NVIDIA High Definition Audio), InstanceID=1
+[2022.08.20-15.25.46:550][266]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22036
+[2022.08.20-15.25.47:548][268]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8e7c0c78-f154-4349-98d0-0458c510307c}, Name=DELL U2515H (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=890.48
+[2022.08.20-15.25.47:548][268]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.20-15.25.47:552][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.20-15.26.24:218][379]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (CORSAIR VIRTUOSO USB Gaming Headset), InstanceID=1
+[2022.08.20-15.26.24:218][379]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22036
+[2022.08.20-15.26.24:550][379]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f01d0ae8-bcb4-4739-8920-5ae74c09c921}, Name=Headset Earphone (CORSAIR VIRTUOSO USB Gaming Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.69
+[2022.08.20-15.26.24:551][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.20-15.26.24:554][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.20-15.26.46:272][617]LogViewport: Scene viewport resized to 859x839, mode Windowed.
+[2022.08.20-15.26.46:712][629]LogViewport: Scene viewport resized to 863x384, mode Windowed.
+[2022.08.20-15.26.46:873][643]LogViewport: Scene viewport resized to 859x839, mode Windowed.
+[2022.08.20-15.26.47:115][667]LogViewport: Scene viewport resized to 859x370, mode Windowed.
+[2022.08.20-15.26.47:311][686]LogViewport: Scene viewport resized to 1739x843, mode Windowed.
